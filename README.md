@@ -1,14 +1,16 @@
-# lifequote
+# umc-frontend
 
-A port of an existing Flash-based life insurance quick quoting application to a single-page JavaScript app, built with (and to learn) [React](http://facebook.github.io/react/).
+A port of an existing insurance application to a single-page JavaScript app. Built to encompass the benefits package creation and claim voting.
+
+Adapted from insin/lifequote
 
 ## Developing
 
 Clone and install dependencies:
 
 ```
-git clone https://github.com/insin/lifequote.git
-cd lifequote
+git clone https://github.com/umc/umc-frontend.git
+cd umc-frontend
 npm install
 ```
 
