@@ -67,8 +67,6 @@ let HealthCodeModal = React.createClass({
     let footer
     if (healthCode == null) {
       body = <div>
-        <p>Pricing for life insurance is based on an overall picture of your health, among other factors. By answering the brief medical questions to help estimate your health category, we can provide you with a more accurate quote. </p>
-        <p>Your information will not be recorded or saved in any way. All questions are required.</p>
         <div className="modal-form-group" ref="question1">
           <label>1. When was the last time you used tobacco?</label>
           <RadioSelect

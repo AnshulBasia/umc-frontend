@@ -28,7 +28,7 @@ let PolicyAdvisorModal = React.createClass({
         <Modal.Title>Policy Advisor</Modal.Title>
       </Modal.Header>
       <Modal.Body style={{height: 500, overflowY: 'scroll'}}>
-        <p><strong>What kind of life insurance policy should you buy?</strong></p>
+        <p><strong>What kind of policy should you buy?</strong></p>
         <p>That depends on your needs and budget. A good first step is to determine if your needs are temporary or permanent. For example, a mortgage is a temporary need, because your mortgage will eventually be paid off. Funds for final expenses are permanent, because the need will never go away.</p>
         <Table bordered>
           <thead>

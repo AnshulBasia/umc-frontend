@@ -20,7 +20,7 @@ const TITLES = {
 }
 
 let Contact = ({contactInfo, errors, email, message, question}) => <div>
-  <p><strong>Thank you for your interest in life insurance.</strong></p>
+  <p><strong>Thank you for your interest in comprehensive unsurance provided by the UMC network.</strong></p>
   <p>{message}</p>
   <p><strong>Please fill out the following fields:</strong></p>
   <ContactForm

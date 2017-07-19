@@ -58,7 +58,7 @@ let ModalItem = ({code, glyph, id, onClick, title, text}) =>
     <p className="list-group-item-text">{text}</p>
   </a>
 
-let LifeQuote = React.createClass({
+let UmbrellaCoin = React.createClass({
   render() {
     let {actions, state} = this.props
     let {loading, step} = state
@@ -143,4 +143,4 @@ let LifeQuote = React.createClass({
   }
 })
 
-export default LifeQuote
+export default UmbrellaCoin

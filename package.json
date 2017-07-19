@@ -1,7 +1,7 @@
 {
-  "name": "lifequote",
+  "name": "UmbrellaCoin",
   "version": "1.0.0",
-  "description": "Quick Life quoting",
+  "description": "Decentralized Insurance",
   "scripts": {
     "build": "webpack --config=webpack.production.config.js",
     "lint": "eslint .",

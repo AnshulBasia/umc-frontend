@@ -2,8 +2,6 @@
 
 A port of an existing insurance application to a single-page JavaScript app. Built to encompass the benefits package creation and claim voting.
 
-Adapted from insin/lifequote
-
 ## Developing
 
 Clone and install dependencies:

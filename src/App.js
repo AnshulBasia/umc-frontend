@@ -1,7 +1,7 @@
 import React from 'react'
 
 import LeadService from './LeadService'
-import LifeQuote from './LifeQuote'
+import UmbrellaCoin from './UmbrellaCoin'
 
 import {GlobalModal, Step} from './enums'
 import {States} from './lookups'
@@ -131,7 +131,7 @@ let App = React.createClass({
   },
 
   render() {
-    return <LifeQuote
+    return <UmbrellaCoin
       actions={{
         changeStep: this.changeStep,
         getLead: this.getLead,
